@@ -1,0 +1,50 @@
+Alhena
+Aldebaran
+Alioth
+Altair
+Antares
+Arcturus
+Bellatrix
+Betelgeuse
+Canopus
+Capella
+Castor
+Deneb
+Dubhe
+Elnath
+Enif
+Fomalhaut
+Formalhaut
+Gamma Cassiopeiae
+Gienah
+Hadar
+Hamal
+Kappa Cassiopeiae
+Kenel
+Lambda Orionis
+Lesath
+Markab
+Menkar
+Mira
+Mirfak
+Naos
+Nunki
+Omaha
+Omicron Ceti
+Phecda
+Polaris
+Pollux
+Procyon
+Regulus
+Rigel
+Rukbat
+Sirius
+Spica
+Suhail
+Sufi
+Thuban
+Unukalhai
+Vega
+Wezen
+Zeta Ophiuchi
+Zosma
